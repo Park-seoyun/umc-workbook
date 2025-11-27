@@ -121,7 +121,7 @@ app.get("/openapi.json", async (req, res, next) => {
 // --- 라우터 설정 ---
 app.get("/", (req, res) => {
   // #swagger.ignore = true
-  res.send("Hello World!");
+  res.send("Hello cicd");
 });
 
 // ========== OAuth2 Google 로그인 ==========

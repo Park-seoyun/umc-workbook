@@ -29,6 +29,3 @@ yarn-error.log*
 # build output
 dist/
 build/
-
-# lock files (선택사항)
-package-lock.json
